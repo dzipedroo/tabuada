@@ -14,7 +14,7 @@ const estilo = StyleSheet.create({
 
   boxPergunta: {
     backgroundColor: 'rgba(255,255,255,0.85)',
-    borderRadius: 10,
+    borderRadius: 20,
     margin: 20,
     padding: 20,
     alignItems: "center",

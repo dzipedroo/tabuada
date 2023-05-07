@@ -36,7 +36,7 @@ const TelaInicio = (props) => {
       <View style={estilo.tela}>
         <View style={estilo.boxPergunta}>
           <Text style={estilo.titulo}>
-            Duvido você acertar!
+            Duvido VOCÊ acertar!
           </Text>
 
           <View style={estilo.boxQuestao}>
